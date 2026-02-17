@@ -66,18 +66,7 @@ Map.addLayer(
   true
 );
 
-// (Optional) If you no longer want the combined coloured layer, comment out or remove the next block:
-/*
-Map.addLayer(
-  lossPeriod,
-  {
-    min: 1,
-    max: 5,
-    palette: ['red', 'orange', 'yellow', 'green', 'purple']
-  },
-  'Forest Loss by Period (combined)'
-);
-*/
+
 
 // 6. Create a legend panel (colours exactly as above)
 var legend = ui.Panel({
