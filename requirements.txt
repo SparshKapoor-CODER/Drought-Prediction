@@ -1,8 +1,11 @@
+dash
 joblib
 matplotlib
 numpy
 pandas
+plotly
 rasterio
 scikit-learn
+scipy
 seaborn
 torch
